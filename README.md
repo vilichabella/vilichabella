@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vilichabella
 - 👀 I’m interested in UX Illustration
 - 🌱 I’m currently learning HTML,CSS, SQL, UI & UX Design 
-- 💞️ I’m looking to collaborate on beginner project, UI&UI design, and UX Illustration
+- 💞️ I’m looking to collaborate on beginner project, UI design, and UX Illustration
 - 📫 How to reach me by email vilicha.illustrator@gmail.com
 
 <!---
